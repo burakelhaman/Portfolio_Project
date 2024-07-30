@@ -1,0 +1,27 @@
+/* Renkler buraya yazılır chir.ag(isim vermek için) */
+:root {
+    --white: #FFFFFF;
+    --black: #000000;
+    --black-gray: rgb(0, 0, 0, .31);
+    --night-rider: #140B0B;
+    --portica: #F6DA6F;
+    --flush-orange: #FF7A00;
+    --saffron: #F2CD3F;
+    --tree-poppy: #FB9A15;
+    --dodger-blue: #1E9CFE;
+    --viking: #6FAEDF;
+    --seagull: #77B7E9;
+    --seagull-opac: rgb(119, 183, 233, .11);
+    --picton-blue: #4197E0;
+    --french-gray: #C4C5C8;
+    --moss-green: #A7D9B4;
+    --eucalyptus: #268940;
+    --clay-creek: #8F815E;
+    --silver-chalice: #9E9E9E;
+    --selago: #F0F7FD;
+
+    --red-hat-text: "RedHatText", sans-serif;
+    --readex-pro: "ReadexPro", sans-serif;
+
+    --transition: all 0.3s ease-out;
+}
