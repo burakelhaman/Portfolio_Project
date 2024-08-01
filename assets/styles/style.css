@@ -235,6 +235,10 @@ nav+button {
     color: var(--flush-orange);
 }
 
+.services-detail-left a:hover {
+    text-decoration: underline;
+}
+
 .services-detail-left button {
     margin-right: 31px;
 }
@@ -414,4 +418,8 @@ h4+p {
 
 .product>h6 {
     margin-bottom: 5px;
+}
+
+.product a:hover {
+    text-decoration: underline;
 }
