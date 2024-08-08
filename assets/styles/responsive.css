@@ -190,6 +190,7 @@
     }
 
     .services-right {
+        height: 100%;
         max-width: 388px;
     }
 
@@ -214,7 +215,7 @@
     }
 
     .services-detail {
-        margin: 280px 0 100px;
+        margin: 150px 0 100px;
         gap: 0;
     }
 
@@ -322,5 +323,28 @@
     .info-sub.write h4,
     .info-sub.write p {
         max-width: 300px;
+    }
+}
+
+@media screen and (width<420px) {
+    .hero-info-container h1 {
+        font-size: 60px;
+    }
+
+    .services-right {
+        max-width: 350px;
+    }
+
+    .services-right h4 {
+        margin-bottom: 60px;
+    }
+
+    .provide-services {
+        justify-content: center;
+    }
+
+    .info-sub img {
+
+        width: calc(100% - 30px);
     }
 }
